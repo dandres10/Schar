@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = PeliculasAPI.Tests
+build_property.ProjectDir = D:\C#\udemy\.Net core\ProyectoFinal\PeliculasApi\PeliculasAPI.Tests\

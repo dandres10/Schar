@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#\\udemy\\.Net core\\Modulo9\\Pruebas\\PruebasTest\\PruebasTest.csproj": {}
+  },
+  "projects": {
+    "D:\\C#\\udemy\\.Net core\\Modulo9\\Pruebas\\PruebasTest\\PruebasTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\udemy\\.Net core\\Modulo9\\Pruebas\\PruebasTest\\PruebasTest.csproj",
+        "projectName": "PruebasTest",
+        "projectPath": "D:\\C#\\udemy\\.Net core\\Modulo9\\Pruebas\\PruebasTest\\PruebasTest.csproj",
+        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\udemy\\.Net core\\Modulo9\\Pruebas\\PruebasTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\C#\\udemy\\.Net core\\Modulo9\\Pruebas\\Pruebas\\Pruebas.csproj": {
+                "projectPath": "D:\\C#\\udemy\\.Net core\\Modulo9\\Pruebas\\Pruebas\\Pruebas.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\udemy\\.Net core\\Modulo9\\Pruebas\\Pruebas\\Pruebas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\udemy\\.Net core\\Modulo9\\Pruebas\\Pruebas\\Pruebas.csproj",
+        "projectName": "Pruebas",
+        "projectPath": "D:\\C#\\udemy\\.Net core\\Modulo9\\Pruebas\\Pruebas\\Pruebas.csproj",
+        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\udemy\\.Net core\\Modulo9\\Pruebas\\Pruebas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

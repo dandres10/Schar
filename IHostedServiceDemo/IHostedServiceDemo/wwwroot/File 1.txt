@@ -1,0 +1,67 @@
+
+
+WriteToFileHostedService: Process Started
+WriteToFileHostedService: Doing some work at 04/04/2020 04:13:39
+WriteToFileHostedService: Doing some work at 04/04/2020 04:13:44
+WriteToFileHostedService: Doing some work at 04/04/2020 04:13:49
+WriteToFileHostedService: Doing some work at 04/04/2020 04:13:54
+WriteToFileHostedService: Doing some work at 04/04/2020 04:13:59
+WriteToFileHostedService: Doing some work at 04/04/2020 04:14:04
+WriteToFileHostedService: Doing some work at 04/04/2020 04:14:09
+WriteToFileHostedService: Doing some work at 04/04/2020 04:14:14
+WriteToFileHostedService: Doing some work at 04/04/2020 04:14:19
+WriteToFileHostedService: Doing some work at 04/04/2020 04:14:24
+WriteToFileHostedService: Doing some work at 04/04/2020 04:14:29
+WriteToFileHostedService: Doing some work at 04/04/2020 04:14:34
+WriteToFileHostedService: Doing some work at 04/04/2020 04:14:39
+WriteToFileHostedService: Doing some work at 04/04/2020 04:14:44
+WriteToFileHostedService: Doing some work at 04/04/2020 04:14:49
+WriteToFileHostedService: Doing some work at 04/04/2020 04:14:54
+WriteToFileHostedService: Doing some work at 04/04/2020 04:14:59
+WriteToFileHostedService: Doing some work at 04/04/2020 04:15:04
+WriteToFileHostedService: Doing some work at 04/04/2020 04:15:09
+WriteToFileHostedService: Doing some work at 04/04/2020 04:15:14
+WriteToFileHostedService: Doing some work at 04/04/2020 04:15:19
+WriteToFileHostedService: Doing some work at 04/04/2020 04:15:24
+WriteToFileHostedService: Doing some work at 04/04/2020 04:15:29
+WriteToFileHostedService: Doing some work at 04/04/2020 04:15:34
+WriteToFileHostedService: Doing some work at 04/04/2020 04:15:39
+WriteToFileHostedService: Doing some work at 04/04/2020 04:15:44
+WriteToFileHostedService: Doing some work at 04/04/2020 04:15:49
+WriteToFileHostedService: Doing some work at 04/04/2020 04:15:54
+WriteToFileHostedService: Doing some work at 04/04/2020 04:15:59
+WriteToFileHostedService: Doing some work at 04/04/2020 04:16:04
+WriteToFileHostedService: Doing some work at 04/04/2020 04:16:09
+WriteToFileHostedService: Doing some work at 04/04/2020 04:16:14
+WriteToFileHostedService: Doing some work at 04/04/2020 04:16:19
+WriteToFileHostedService: Doing some work at 04/04/2020 04:16:24
+WriteToFileHostedService: Doing some work at 04/04/2020 04:16:29
+WriteToFileHostedService: Doing some work at 04/04/2020 04:16:34
+WriteToFileHostedService: Doing some work at 04/04/2020 04:16:39
+WriteToFileHostedService: Doing some work at 04/04/2020 04:16:44
+WriteToFileHostedService: Process Started
+WriteToFileHostedService: Doing some work at 19/06/2020 10:42:39
+WriteToFileHostedService: Doing some work at 19/06/2020 10:42:44
+WriteToFileHostedService: Doing some work at 19/06/2020 10:42:49
+WriteToFileHostedService: Doing some work at 19/06/2020 10:42:54
+WriteToFileHostedService: Doing some work at 19/06/2020 10:42:59
+WriteToFileHostedService: Process Stopped
+WriteToFileHostedService: Process Started
+WriteToFileHostedService: Doing some work at 03/11/2020 11:16:34
+WriteToFileHostedService: Doing some work at 03/11/2020 11:16:39
+WriteToFileHostedService: Doing some work at 03/11/2020 11:16:45
+WriteToFileHostedService: Doing some work at 03/11/2020 11:16:50
+WriteToFileHostedService: Doing some work at 03/11/2020 11:16:55
+WriteToFileHostedService: Doing some work at 03/11/2020 11:17:00
+WriteToFileHostedService: Doing some work at 03/11/2020 11:17:05
+WriteToFileHostedService: Doing some work at 03/11/2020 11:17:10
+WriteToFileHostedService: Doing some work at 03/11/2020 11:17:14
+WriteToFileHostedService: Doing some work at 03/11/2020 11:17:19
+WriteToFileHostedService: Doing some work at 03/11/2020 11:17:25
+WriteToFileHostedService: Doing some work at 03/11/2020 11:17:30
+WriteToFileHostedService: Doing some work at 03/11/2020 11:17:35
+WriteToFileHostedService: Doing some work at 03/11/2020 11:17:40
+WriteToFileHostedService: Doing some work at 03/11/2020 11:17:45
+WriteToFileHostedService: Doing some work at 03/11/2020 11:17:50
+WriteToFileHostedService: Doing some work at 03/11/2020 11:17:55
+WriteToFileHostedService: Doing some work at 03/11/2020 11:18:00

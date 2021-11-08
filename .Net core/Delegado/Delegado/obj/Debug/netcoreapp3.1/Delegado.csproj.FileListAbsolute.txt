@@ -1,0 +1,13 @@
+D:\C#\udemy\.Net core\Delegado\Delegado\obj\Debug\netcoreapp3.1\Delegado.csprojAssemblyReference.cache
+D:\C#\udemy\.Net core\Delegado\Delegado\obj\Debug\netcoreapp3.1\Delegado.csproj.CoreCompileInputs.cache
+D:\C#\udemy\.Net core\Delegado\Delegado\obj\Debug\netcoreapp3.1\Delegado.AssemblyInfoInputs.cache
+D:\C#\udemy\.Net core\Delegado\Delegado\obj\Debug\netcoreapp3.1\Delegado.AssemblyInfo.cs
+D:\C#\udemy\.Net core\Delegado\Delegado\bin\Debug\netcoreapp3.1\Delegado.exe
+D:\C#\udemy\.Net core\Delegado\Delegado\bin\Debug\netcoreapp3.1\Delegado.deps.json
+D:\C#\udemy\.Net core\Delegado\Delegado\bin\Debug\netcoreapp3.1\Delegado.runtimeconfig.json
+D:\C#\udemy\.Net core\Delegado\Delegado\bin\Debug\netcoreapp3.1\Delegado.runtimeconfig.dev.json
+D:\C#\udemy\.Net core\Delegado\Delegado\bin\Debug\netcoreapp3.1\Delegado.dll
+D:\C#\udemy\.Net core\Delegado\Delegado\bin\Debug\netcoreapp3.1\Delegado.pdb
+D:\C#\udemy\.Net core\Delegado\Delegado\obj\Debug\netcoreapp3.1\Delegado.dll
+D:\C#\udemy\.Net core\Delegado\Delegado\obj\Debug\netcoreapp3.1\Delegado.pdb
+D:\C#\udemy\.Net core\Delegado\Delegado\obj\Debug\netcoreapp3.1\Delegado.genruntimeconfig.cache
