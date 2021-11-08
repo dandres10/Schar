@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AgendaLinq">
+  <DataContextMoniker Name="/AgendaLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e3ef7433-331e-4340-b146-2f03b78fecd3" absoluteBounds="0.875, 0.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/AgendaLinqDataContext/ContactosTB" />
+      <nestedChildShapes>
+        <elementListCompartment Id="beaf26f6-f324-4ebf-8c9f-3a5aa0e95ccf" absoluteBounds="0.89000000000000012, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

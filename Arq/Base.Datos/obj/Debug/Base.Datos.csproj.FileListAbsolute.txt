@@ -1,0 +1,13 @@
+D:\C#\ARQ\Arq\Base.Datos\bin\Debug\Base.Datos.dll.config
+D:\C#\ARQ\Arq\Base.Datos\bin\Debug\Base.Datos.dll
+D:\C#\ARQ\Arq\Base.Datos\bin\Debug\Base.Datos.pdb
+D:\C#\ARQ\Arq\Base.Datos\bin\Debug\Base.IC.dll
+D:\C#\ARQ\Arq\Base.Datos\bin\Debug\EntityFramework.dll
+D:\C#\ARQ\Arq\Base.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\ARQ\Arq\Base.Datos\bin\Debug\Base.IC.pdb
+D:\C#\ARQ\Arq\Base.Datos\bin\Debug\EntityFramework.xml
+D:\C#\ARQ\Arq\Base.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\ARQ\Arq\Base.Datos\obj\Debug\Base.Datos.csprojAssemblyReference.cache
+D:\C#\ARQ\Arq\Base.Datos\obj\Debug\Base.Datos.csproj.CopyComplete
+D:\C#\ARQ\Arq\Base.Datos\obj\Debug\Base.Datos.dll
+D:\C#\ARQ\Arq\Base.Datos\obj\Debug\Base.Datos.pdb

@@ -1,0 +1,13 @@
+D:\C#\ARQ\Arq\Base.Negocio\bin\Debug\Base.Negocio.dll
+D:\C#\ARQ\Arq\Base.Negocio\bin\Debug\Base.Negocio.pdb
+D:\C#\ARQ\Arq\Base.Negocio\bin\Debug\Base.Datos.dll
+D:\C#\ARQ\Arq\Base.Negocio\bin\Debug\Base.IC.dll
+D:\C#\ARQ\Arq\Base.Negocio\bin\Debug\EntityFramework.dll
+D:\C#\ARQ\Arq\Base.Negocio\bin\Debug\Base.Datos.pdb
+D:\C#\ARQ\Arq\Base.Negocio\bin\Debug\Base.Datos.dll.config
+D:\C#\ARQ\Arq\Base.Negocio\bin\Debug\Base.IC.pdb
+D:\C#\ARQ\Arq\Base.Negocio\bin\Debug\EntityFramework.xml
+D:\C#\ARQ\Arq\Base.Negocio\obj\Debug\Base.Negocio.csprojAssemblyReference.cache
+D:\C#\ARQ\Arq\Base.Negocio\obj\Debug\Base.Negocio.csproj.CopyComplete
+D:\C#\ARQ\Arq\Base.Negocio\obj\Debug\Base.Negocio.dll
+D:\C#\ARQ\Arq\Base.Negocio\obj\Debug\Base.Negocio.pdb

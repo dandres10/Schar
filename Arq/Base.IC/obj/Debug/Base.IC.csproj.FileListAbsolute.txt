@@ -1,0 +1,5 @@
+D:\C#\ARQ\Arq\Base.IC\bin\Debug\Base.IC.dll
+D:\C#\ARQ\Arq\Base.IC\bin\Debug\Base.IC.pdb
+D:\C#\ARQ\Arq\Base.IC\obj\Debug\Base.IC.csprojAssemblyReference.cache
+D:\C#\ARQ\Arq\Base.IC\obj\Debug\Base.IC.dll
+D:\C#\ARQ\Arq\Base.IC\obj\Debug\Base.IC.pdb

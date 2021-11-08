@@ -1,0 +1,32 @@
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\bin\Debug\Negocio.dll
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\bin\Debug\Datos.dll
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\bin\Debug\Datos.pdb
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\dandr\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\bin\Debug\Datos.dll
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Andres Leon\Documents\C#\Agenda\Presentacion\obj\Debug\Presentacion.pdb

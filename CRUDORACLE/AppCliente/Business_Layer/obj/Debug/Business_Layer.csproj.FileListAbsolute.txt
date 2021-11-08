@@ -1,0 +1,12 @@
+D:\C#\CRUDORACLE\AppCliente\Business_Layer\bin\Debug\Business_Layer.dll
+D:\C#\CRUDORACLE\AppCliente\Business_Layer\bin\Debug\Business_Layer.pdb
+D:\C#\CRUDORACLE\AppCliente\Business_Layer\bin\Debug\DataAccess.dll
+D:\C#\CRUDORACLE\AppCliente\Business_Layer\bin\Debug\Entity_Layer.dll
+D:\C#\CRUDORACLE\AppCliente\Business_Layer\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\C#\CRUDORACLE\AppCliente\Business_Layer\bin\Debug\Oracle.DataAccess.dll
+D:\C#\CRUDORACLE\AppCliente\Business_Layer\bin\Debug\DataAccess.pdb
+D:\C#\CRUDORACLE\AppCliente\Business_Layer\bin\Debug\Entity_Layer.pdb
+D:\C#\CRUDORACLE\AppCliente\Business_Layer\obj\Debug\Business_Layer.csprojAssemblyReference.cache
+D:\C#\CRUDORACLE\AppCliente\Business_Layer\obj\Debug\Business_Layer.csproj.CopyComplete
+D:\C#\CRUDORACLE\AppCliente\Business_Layer\obj\Debug\Business_Layer.dll
+D:\C#\CRUDORACLE\AppCliente\Business_Layer\obj\Debug\Business_Layer.pdb

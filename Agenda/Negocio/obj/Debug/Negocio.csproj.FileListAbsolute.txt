@@ -1,0 +1,10 @@
+C:\Users\dandr\Documents\C#\Agenda\Negocio\bin\Debug\Negocio.dll
+C:\Users\dandr\Documents\C#\Agenda\Negocio\bin\Debug\Negocio.pdb
+C:\Users\dandr\Documents\C#\Agenda\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\dandr\Documents\C#\Agenda\Negocio\obj\Debug\Negocio.dll
+C:\Users\dandr\Documents\C#\Agenda\Negocio\obj\Debug\Negocio.pdb
+C:\Users\dandr\Documents\C#\Agenda\Negocio\bin\Debug\Datos.dll
+C:\Users\dandr\Documents\C#\Agenda\Negocio\bin\Debug\Datos.pdb
+C:\Users\dandr\Documents\C#\Agenda\Negocio\bin\Debug\Datos.dll.config
+C:\Users\dandr\Documents\C#\Agenda\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\dandr\Documents\C#\Agenda\Negocio\obj\Debug\Negocio.csproj.CopyComplete

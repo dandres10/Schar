@@ -1,0 +1,10 @@
+D:\C#\CRUDORACLE\AppCliente\DataAccess\bin\Debug\DataAccess.dll
+D:\C#\CRUDORACLE\AppCliente\DataAccess\bin\Debug\DataAccess.pdb
+D:\C#\CRUDORACLE\AppCliente\DataAccess\bin\Debug\Entity_Layer.dll
+D:\C#\CRUDORACLE\AppCliente\DataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\C#\CRUDORACLE\AppCliente\DataAccess\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\C#\CRUDORACLE\AppCliente\DataAccess\bin\Debug\Entity_Layer.pdb
+D:\C#\CRUDORACLE\AppCliente\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\C#\CRUDORACLE\AppCliente\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\C#\CRUDORACLE\AppCliente\DataAccess\obj\Debug\DataAccess.dll
+D:\C#\CRUDORACLE\AppCliente\DataAccess\obj\Debug\DataAccess.pdb

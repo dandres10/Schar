@@ -1,0 +1,6 @@
+D:\C#\CRUDORACLE\AppCliente\Entity_Layer\bin\Debug\Entity_Layer.dll
+D:\C#\CRUDORACLE\AppCliente\Entity_Layer\bin\Debug\Entity_Layer.pdb
+D:\C#\CRUDORACLE\AppCliente\Entity_Layer\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\C#\CRUDORACLE\AppCliente\Entity_Layer\obj\Debug\Entity_Layer.csproj.CopyComplete
+D:\C#\CRUDORACLE\AppCliente\Entity_Layer\obj\Debug\Entity_Layer.dll
+D:\C#\CRUDORACLE\AppCliente\Entity_Layer\obj\Debug\Entity_Layer.pdb

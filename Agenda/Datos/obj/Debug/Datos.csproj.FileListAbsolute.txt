@@ -1,0 +1,7 @@
+C:\Users\dandr\Documents\C#\Agenda\Datos\bin\Debug\Datos.dll.config
+C:\Users\dandr\Documents\C#\Agenda\Datos\bin\Debug\Datos.dll
+C:\Users\dandr\Documents\C#\Agenda\Datos\bin\Debug\Datos.pdb
+C:\Users\dandr\Documents\C#\Agenda\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\dandr\Documents\C#\Agenda\Datos\obj\Debug\Datos.dll
+C:\Users\dandr\Documents\C#\Agenda\Datos\obj\Debug\Datos.pdb
+C:\Users\dandr\Documents\C#\Agenda\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
